@@ -1,0 +1,6 @@
+# Makera Z1 Display: manifiesto de la actualizacion por WiFi
+proyecto=Makera_Z1_Display
+placa=waveshare-esp32p4-wifi6-touch-lcd-7b
+version=0.4.9
+desde=0.1.0
+archivo=Makera_Z1_Display.bin
